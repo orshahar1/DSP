@@ -48,14 +48,13 @@ This project was part of a DSP course and focuses on designing, implementing, an
 .
 ├── DSP PART 1.pdf # Results document for Part 1  
 ├── DSP PART 2.pdf # Results document for Part 2
-├── DSP part1 instructions.docx # Instructions for Part 1 
-├── DSP part2 instructions.docx # Instructions for Part 2 
-├── DSP_part1.m # Script for FFT and IFFT implementation 
-├── DSP_part2.m # Script for filter design and analysis 
+├── DSP_PART1_INSTRACTIONS.docx # Instructions for Part 1 
+├── DSP_PART2_INSTRACTIONS.docx # Instructions for Part 2 
+├── DSP_PART1_FINAL.m # Script for FFT and IFFT implementation 
+├── DSP_PART2_FINAL.m # Script for filter design and analysis 
 ├── filter_0.25_101.mat # FIR filter coefficients 
 ├── filter_1.mat # Filter 1 coefficients 
 ├── filter_2.mat # Filter 2 coefficients 
-├── part 1 matlab files.zip # ZIP file containing MATLAB files for Part 1 
 ├── sig_2.mat # Input signal for filtering 
 ├── sig_x.mat # Signal for convolution operations 
 ├── LICENSE # License file 
