@@ -93,4 +93,11 @@ This project was part of a DSP course and focuses on designing, implementing, an
 
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
-תיאור
+## Contributors
+
+- Or Shahar
+- Yuval Peretz
+- Daniel Brooker
+
+
+-This project was completed as part of the Digital Signal Processing (DSP) course at Bar-Ilan university.
